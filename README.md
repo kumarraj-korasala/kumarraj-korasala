@@ -11,7 +11,6 @@
 <a href="https://linkedin.com/in/kumarraj korasala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumarraj korasala" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/32157536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="32157536" height="30" width="40" /></a>
 <a href="https://kaggle.com/kumar raj korasala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kumar raj korasala" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/533244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="533244" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
